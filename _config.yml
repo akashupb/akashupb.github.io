@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /rahulraopune.github.io
+baseurl: /akashsingh.github.io
 exclude: [READMD.md,vendor]
 languages: ["en", "de"]
 exclude_from_localizations: ["assets", "CNAME"]
